@@ -68,7 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-### Some notes
+### Some references
 https://docs.microsoft.com/pt-br/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
 https://docs.microsoft.com/pt-br/virtualization/windowscontainers/quick-start/set-up-environment?tabs=Windows-10-Client
 https://docs.microsoft.com/pt-br/virtualization/windowscontainers/manage-docker/configure-docker-daemon
